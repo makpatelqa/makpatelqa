@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Patel</h1>
 <h3 align="center">I'm a QA Automation Engineer specialising in Java/Python/JavaScript.</h3>
 
-- 🌱 I’m currently learning **Meastro** a mobile automation tool
+- 🌱 I’m currently learning **Maestro** a mobile automation tool
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/makpatelqa)
 
